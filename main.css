@@ -1,0 +1,17 @@
+.container {
+    display: block;
+    max-width: 30%;
+    margin: 200px auto;
+    background-color: #dddddd;
+    padding: 25px;
+    border-radius: 10px
+}
+
+.col h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
